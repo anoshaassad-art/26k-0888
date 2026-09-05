@@ -1,3 +1,36 @@
-# 26k-0888
-Added a new **Hobbies &amp; Extracurriculars** section to my CV. This section includes an ordered list of hobbies and a nested task list showing completed and pending goals.
-![Profile Picture](anusha.jpg)
+# Anusha Assad Lashari Baloch
+## Education
+**Bachelor in Computer Science**\
+*FAST National University of Computer and Emerging Sciences*
+## Skills
+- C Programing\
+- Python\
+- Java\
+- HTML\
+- CSS\
+- Javascrip
+## Projects
+*Grocery store website*\
+*Student Management System*
+<div align="center">
+
+## Education
+
+**Bachelor of Science in Computer Science**
+
+*FAST National University of Computer and Emerging Sciences*
+
+## Skills
+
+- C Programming
+- Python
+- HTML
+- CSS
+
+## Projects
+
+- Student Management System
+- Personal Portfolio Website
+
+</div>
+![Profile Picture](cartoon.jpg)
